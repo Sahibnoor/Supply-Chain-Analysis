@@ -20,7 +20,7 @@ To analyze and optimize supply chain operations by tracking:
 ## 📊 Dashboards Overview
 
 ### 1. **Shipment Dashboard**
-![Dashboard Thumbnail](Shipment_Dashboard.png)
+![Dashboard Thumbnail](Shipment Dashboard.png)
 - **% of Delayed Orders**: Displays the percentage of shipments arriving later than expected.
 - **Average Shipment Delay**: Measured in days.
 - **Investigating Shipments**: Stacked area chart categorizing orders by delay severity.
