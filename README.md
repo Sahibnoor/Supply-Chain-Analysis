@@ -3,6 +3,7 @@
 This project presents a series of interactive Tableau dashboards built for visualizing key performance metrics in a simulated supply chain scenario. The visualizations aim to support operational decisions related to **shipment performance**, **inventory management**, and **supply-demand alignment**.
 
 > 🛠 Built as part of a dashboarding and visualization project using **Tableau Desktop**.
+
 > Explore the full interactive dashboard using the Tableau Workbook below:
 🎯 [Download the Tableau Project File (`.twbx`)](Supply_Chain_Dashboard.twbx)
 
