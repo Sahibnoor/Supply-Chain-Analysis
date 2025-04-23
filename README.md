@@ -6,6 +6,15 @@ This project presents a series of interactive Tableau dashboards built for visua
 
 ---
 
+## 🖥️ Live Preview
+
+![Dashboard Thumbnail](Inventory_Dashboard.png)
+
+> Explore the full interactive dashboard using the Tableau Workbook below:
+🎯 [Download the Tableau Project File (`.twbx`)](Supply_Chain_Dashboard.twbx)
+
+---
+
 ## 🎯 Objective
 
 To analyze and optimize supply chain operations by tracking:
