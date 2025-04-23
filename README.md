@@ -3,13 +3,6 @@
 This project presents a series of interactive Tableau dashboards built for visualizing key performance metrics in a simulated supply chain scenario. The visualizations aim to support operational decisions related to **shipment performance**, **inventory management**, and **supply-demand alignment**.
 
 > 🛠 Built as part of a dashboarding and visualization project using **Tableau Desktop**.
-
----
-
-## 🖥️ Live Preview
-
-![Dashboard Thumbnail](Inventory_Dashboard.png)
-
 > Explore the full interactive dashboard using the Tableau Workbook below:
 🎯 [Download the Tableau Project File (`.twbx`)](Supply_Chain_Dashboard.twbx)
 
@@ -27,12 +20,14 @@ To analyze and optimize supply chain operations by tracking:
 ## 📊 Dashboards Overview
 
 ### 1. **Shipment Dashboard**
+![Dashboard Thumbnail](Shipment_Dashboard.png)
 - **% of Delayed Orders**: Displays the percentage of shipments arriving later than expected.
 - **Average Shipment Delay**: Measured in days.
 - **Investigating Shipments**: Stacked area chart categorizing orders by delay severity.
 - **Delays Evolution**: Line plot showing trends over time with color-coded improvement/deterioration.
 
 ### 2. **Inventory Dashboard**
+![Dashboard Thumbnail](Inventory_Dashboard.png)
 - **Supply vs Demand**: Bubble chart comparing stock levels across warehouses to product demand.
 - **Inventory Levels**: Line and bar plots showing fluctuations in stock deltas for top 10 product categories.
 - **Inventory-to-Sales Delta**: Highlights overstock and understock situations over time.
